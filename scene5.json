@@ -54,7 +54,7 @@
     "y": 68,
     "largeur": 50,
     "decryptage": true,
-    "imgSrc": "/Scene5/morse.png"
+    "imgSrc": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/morse.png"
   },
   {
     "id": 5,

@@ -26,7 +26,7 @@
     "largeur": 90,
     "indice": true,
     "decryptage": true,
-    "imgSrc": "/Scene4/tripoli1.png"
+    "imgSrc": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/tripoli1.png"
   },
   {
     "id": 4,
@@ -40,7 +40,7 @@
     "y": 40,
     "largeur": 125,
     "decryptage": true,
-    "imgSrc": "/Scene4/tripoli2.png"
+    "imgSrc": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/tripoli2.png"
   },
   {
     "id": 5,

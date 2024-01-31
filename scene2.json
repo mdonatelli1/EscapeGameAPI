@@ -26,7 +26,7 @@
     "largeur": 80,
     "indice": true,
     "decryptage": true,
-    "imgSrc": "/Scene2/Alberti.png"
+    "imgSrc": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/Alberti.png"
   },
   {
     "id": 3,
@@ -147,7 +147,7 @@
     "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/padlock-303266_1280.png",
     "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id15.mp3",
     "alt": "cadenas",
-    "code": "LES JEUX SONT FAITS",
+    "code": "Quinte flush royale",
     "inventory": false,
     "x": 46.95,
     "y": 47.7,

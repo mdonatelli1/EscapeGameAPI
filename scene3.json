@@ -27,7 +27,7 @@
     "largeur": 60,
     "indice": true,
     "decryptage": true,
-    "imgSrc": "/Scene3/Pigben1.png"
+    "imgSrc": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/Pigben1.png"
   },
   {
     "id": 3,
@@ -43,7 +43,7 @@
     "largeur": 50,
     "indice": true,
     "decryptage": true,
-    "imgSrc": "/Scene3/Pigben2.png"
+    "imgSrc": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/Pigben2.png"
   },
   {
     "id": 4,
@@ -58,7 +58,7 @@
     "largeur": 30,
     "indice": true,
     "decryptage": true,
-    "imgSrc": "/Scene3/Pigben3.png"
+    "imgSrc": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/Pigben3.png"
   },
   {
     "id": 5,
@@ -74,7 +74,7 @@
     "largeur": 220,
     "indice": true,
     "decryptage": true,
-    "imgSrc": "/Scene3/Pigben4.png"
+    "imgSrc": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/Pigben4.png"
   },
   {
     "id": 6,
