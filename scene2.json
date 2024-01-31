@@ -1,0 +1,157 @@
+[
+  {
+    "id": 100,
+    "name": "canne",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id1.mp3",
+    "subtitles": "...Mmmmmh.. Une vieille canne ?",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/canne.png",
+    "alt": "canne",
+    "inventory": true,
+    "x": 15,
+    "y": 49,
+    "largeur": 170,
+    "splineUrl": "https://prod.spline.design/nZVPf8N8YanFoqhn/scene.splinecode"
+  },
+  {
+    "id": 2,
+    "name": "roulette",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id2.mp3",
+    "subtitles": "Tiens ? Cette roulette semble différente de tout à l'heure...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/roulette.png",
+    "splineUrl": "/Scene2/roulette.png",
+    "alt": "roulette",
+    "inventory": false,
+    "x": 72,
+    "y": 55,
+    "largeur": 80,
+    "indice": true,
+    "decryptage": true,
+    "imgSrc": "/Scene2/Alberti.png"
+  },
+  {
+    "id": 3,
+    "name": "lunettes de soleil fashion",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id3.mp3",
+    "subtitles":
+      "On dirait celles de Mary. Ca signifie qu'elle est ici ?! Oh non, elle ne doit pas me voir ici !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/lunette.png",
+    "alt": "lunettes de soleil fashion",
+    "inventory": false,
+    "x": 10,
+    "y": 69.5,
+    "largeur": 40
+  },
+  {
+    "id": 4,
+    "name": "cigare",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id4.mp3",
+    "subtitles":
+      "Ma parole, ils fument tous le cigare ici ou quoi ? Et puis, je croyais que c'était devenu interdit dans les lieux publics ! Orh !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/cigare.png",
+    "alt": "cigare",
+    "inventory": false,
+    "x": 25,
+    "y": 70,
+    "largeur": 30
+  },
+  {
+    "id": 5,
+    "name": "radio",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id5.mp3",
+    "subtitles": "[MUSIQUE ENFANTINE]",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/radio.png",
+    "alt": "radio",
+    "inventory": false,
+    "x": 64,
+    "y": 64,
+    "largeur": 53
+  },
+  {
+    "id": 6,
+    "name": "panneau où il est écrit EN PANNE",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id6.mp3",
+    "subtitles":
+      "Une panne.. ça arrive à tout le monde ! [RIRES] Plus sérieusement, c'est un peu vétuste ici, non ?",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/EnPanne.png",
+    "alt": "panneau où il est écrit EN PANNE",
+    "inventory": false,
+    "x": 53,
+    "y": 53,
+    "largeur": 80
+  },
+  {
+    "id": 8,
+    "name": "plante fânée",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id8.mp3",
+    "subtitles": "pauvre plante ...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/PlanteFanée.png",
+    "alt": "plante fânée",
+    "inventory": false,
+    "x": 43,
+    "y": 52,
+    "largeur": 65
+  },
+  {
+    "id": 9,
+    "name": "sculpture étrange",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id9.mp3",
+    "subtitles": "Je crois que je ne comprendrais jamais l'art.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/Sculpture.png",
+    "alt": "sculpture étrange",
+    "inventory": false,
+    "x": 36,
+    "y": 38.5,
+    "largeur": 100
+  },
+  {
+    "id": 10,
+    "name": "tableau de l'as de pique",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id10.mp3",
+    "subtitles": "Argh ! Rien de plus stressant qu'un tableau pas droit !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/TableauPenché.png",
+    "alt": "tableau d'un as de pique pas droit",
+    "inventory": false,
+    "x": 84,
+    "y": 30,
+    "largeur": 165
+  },
+  {
+    "id": 11,
+    "name": "verre de whisky",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id11.mp3",
+    "subtitles": "Mettez moi juste un doigt !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/VerreWhisky.png",
+    "alt": "verre de whisky",
+    "inventory": false,
+    "x": 8,
+    "y": 75,
+    "largeur": 55
+  },
+  {
+    "id": 12,
+    "name": "caméra",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id12.mp3",
+    "subtitles": "... Ils nous observent.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/caméra.png",
+    "alt": "caméra",
+    "inventory": false,
+    "x": 66,
+    "y": 30,
+    "largeur": 25,
+    "indice": true
+  },
+  {
+    "id": 15,
+    "name": "cadenas",
+    "subtitles": "Je devrais encore continuer d'explorer la salle...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/padlock-303266_1280.png",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene2/sc2id15.mp3",
+    "alt": "cadenas",
+    "code": "LES JEUX SONT FAITS",
+    "inventory": false,
+    "x": 46.95,
+    "y": 47.7,
+    "largeur": 20,
+    "dechiffrage": "qjx ojzc xtsy kfnyx"
+  }
+]

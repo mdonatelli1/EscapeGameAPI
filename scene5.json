@@ -1,0 +1,214 @@
+[
+  {
+    "id": 400,
+    "name": "bouquet de fleurs",
+    "sound": "",
+    "subtitles":
+      "Je.. Je reconnais ces fleurs.. C'est.. SNIF C'est celles que j'ai offert à Mary avant.. Avant que.. [SANGLOTS]",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/bouquet.png",
+    "splineUrl": "https://prod.spline.design/0BHRL1GB1ewQkGAw/scene.splinecode",
+    "alt": "bouquet de fleurs",
+    "inventory": true,
+    "x": 43.5,
+    "y": 42.6,
+    "largeur": 60
+  },
+  {
+    "id": 2,
+    "name": "radio",
+    "sound": "",
+    "subtitles":
+      "[AUDIO ETRANGE CODE: . _ _ _ _ ; . . . . _ ; . . _ _ _ ; _ _ _ _ _ ]",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/radio.png",
+    "alt": "radio",
+    "inventory": false,
+    "x": 93.5,
+    "y": 62.5,
+    "largeur": 70,
+    "indice": true
+  },
+  {
+    "id": 3,
+    "name": "tombe de Mary",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id3.mp3",
+    "subtitles":
+      "La tombe de Mary... un lieu de repos éternel qui me semble si lointain. Un beau jour, je te retrouverai, douce Mary. Hein ?! Quelque chose est gravé derrière la stèle !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/tombe.png",
+    "alt": "tombe de Mary",
+    "inventory": false,
+    "x": 55,
+    "y": 57,
+    "largeur": 150,
+    "indice": true
+  },
+  {
+    "id": 4,
+    "name": "certificat de décès de Mary Hadd",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id4.mp3",
+    "subtitles":
+      "C'est le certificat de décès de Mary... [SANGLOTS] ... Elle me manque tellement, ma petite femme...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/certificatDece.png",
+    "alt": "certificat de décès de Mary Hadd",
+    "inventory": false,
+    "x": 60,
+    "y": 68,
+    "largeur": 50,
+    "decryptage": true,
+    "imgSrc": "/Scene5/morse.png"
+  },
+  {
+    "id": 5,
+    "name": "lettre d'interdiction des Casinos",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id5.mp3",
+    "subtitles":
+      "Une lettre : Cher Monsieur Hadd, nous vous informons que vous êtes désormais interdit de Casino en raison de trop nombreuses dettes de jeu... [SOUPIR] Tss quels rabats joie. J'aurais pu rembourser tout ça et faire même du profit avec un dernier poker...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/RadiéCasino.png",
+    "alt": "lettre d'interdiction des Casinos",
+    "inventory": false,
+    "x": 30,
+    "y": 65.5,
+    "largeur": 40
+  },
+  {
+    "id": 6,
+    "name": "pistolet",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id6.mp3",
+    "subtitles":
+      "N... Non... Je le reconnaît. C'est avec cette arme que j'ai essayé... ... Je suis trop faible... J'ai tout raté.. Même ma mort, je l'ai ratée.. !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/flinge.png",
+    "alt": "pistolet",
+    "inventory": false,
+    "x": 25,
+    "y": 65,
+    "largeur": 60
+  },
+  {
+    "id": 7,
+    "name": "sac de jetons",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id47.mp3",
+    "subtitles":
+      "Un sac de jetons... vestige d'une époque où tout était plus beau.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/SacJetons.png",
+    "alt": "sac de jetons",
+    "inventory": false,
+    "x": 80,
+    "y": 80,
+    "largeur": 50
+  },
+  {
+    "id": 8,
+    "name": "caméra de surveillance",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id8.mp3",
+    "subtitles":
+      "Cette caméra... me regarde-t-elle depuis le début? Enregistre-t-elle ma descente aux enfers? Ou.. Peut-être que c'est moi qui la regade, non... ?",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/caméra.png",
+    "alt": "caméra de surveillance",
+    "inventory": false,
+    "x": 65.5,
+    "y": 35.5,
+    "largeur": 25
+  },
+  {
+    "id": 9,
+    "name": "résultats d'analyses de psychiatrie",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id9.mp3",
+    "subtitles":
+      "Il est écrit que Monsieur Gérars Hadd est atteint de troubles psychologiques atypique et d'une addiction aux jeux... [RIRE MALSAIN] Quel nase ce Gérard ! [CRI INQUIETANT] TAIS TOI ! TAIS TOI , NE M'INSULTE PAS !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/analyse.png",
+    "alt": "résultats d'analyses de psychiatrie",
+    "inventory": false,
+    "x": 50,
+    "y": 42,
+    "largeur": 40
+  },
+  {
+    "id": 10,
+    "name": "ballon de clown",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id10.mp3",
+    "subtitles": "[HURLEMENT]",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/ballonClown.png",
+    "alt": "ballon de clown",
+    "inventory": false,
+    "x": 18,
+    "y": 56,
+    "largeur": 70
+  },
+  {
+    "id": 11,
+    "name": "paquet de cartes",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id11.mp3",
+    "subtitles":
+      "J'aimerais tant pouvoir rejouer une dernière fois... J'aimerais jouer avec Mary dans un véritable Casino...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/PaquetCarte.png",
+    "alt": "paquet de cartes",
+    "inventory": false,
+    "x": 20,
+    "y": 79,
+    "largeur": 30
+  },
+  {
+    "id": 12,
+    "name": "photo de mariage de Mary et Gérard",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id12.mp3",
+    "subtitles":
+      "La photo de mon mariage avec Mary... Mary et Gerard Hadd.. Nous avons été si heureux. Désormais, cette photo ,ne reflète que l'écho de ma propre douleur.. SNIF",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/photoMariage.png",
+    "alt": "photo de mariage de Mary et Gérard",
+    "inventory": false,
+    "x": 57.5,
+    "y": 37,
+    "largeur": 80
+  },
+  {
+    "id": 13,
+    "name": "stéthoscope",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id13.mp3",
+    "subtitles":
+      "Ce stéthoscope... Ils m'examinent tous les jours... Je n'ai pas besoin de ça... Je vais bien, pourtant non.. ?",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/Stétoscope.png",
+    "alt": "stéthoscope",
+    "inventory": false,
+    "x": 77.5,
+    "y": 67.5,
+    "largeur": 60
+  },
+  {
+    "id": 14,
+    "name": "boîte de Xanax",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id14.mp3",
+    "subtitles":
+      "Je me souviens, maintenant... C'est la boîte de Xanax que j'ai avalée en espérant calmer mes démons intérieurs, en vain...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/Xanax.png",
+    "alt": "boîte de Xanax",
+    "inventory": false,
+    "x": 69,
+    "y": 59,
+    "largeur": 35
+  },
+  {
+    "id": 15,
+    "name": "bouteille d'alcool",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id15.mp3",
+    "subtitles":
+      "C'est la bouteille d'alcool que j'ai vidée cette fameuse nuit dernière pour tenter d'oublier... mais rien n'a changé. Non... Rien.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene5/BouteilleAlcool.png",
+    "alt": "bouteille d'alcool",
+    "inventory": false,
+    "x": 56,
+    "y": 66,
+    "largeur": 30
+  },
+  {
+    "id": 16,
+    "name": "cadenas",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene5/sc5id16.mp3",
+    "subtitles": "Je devrais encore continuer d'explorer la salle...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/padlock-303266_1280.png",
+    "alt": "cadenas",
+    "code": "ASILE",
+    "inventory": false,
+    "x": 53.1,
+    "y": 48,
+    "largeur": 20
+  }
+]

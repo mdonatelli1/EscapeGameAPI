@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "name": "jeton",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id1.mp3",
+    "subtitles": "Mhm... Je devrais peut-être regarder ce jeton de plus près.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/Jeton.png",
+    "alt": "jeton de poker",
+    "inventory": true,
+    "splineUrl": "https://prod.spline.design/be8BmFnRYQfM04Ba/scene.splinecode",
+    "x": 29.2,
+    "y": 83,
+    "largeur": 32
+  },
+  {
+    "id": 2,
+    "name": "montre luxueuse",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id2.mp3",
+    "subtitles": "Cette montre est arrêtée sur 10H10. Etrange...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/montre10.png",
+    "alt": "montre luxueuse",
+    "inventory": false,
+    "x": 27,
+    "y": 65,
+    "largeur": 28,
+    "indice": true
+  },
+  {
+    "id": 3,
+    "name": "badge de sécurité",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id3.mp3",
+    "subtitles": "Oh ! Un badge de sécurité. Il s'agit du numéro 809.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/badge809.png",
+    "alt": "badge de sécurité",
+    "inventory": false,
+    "x": 72,
+    "y": 63,
+    "largeur": 30,
+    "indice": true
+  },
+  {
+    "id": 4,
+    "name": "clef de machine à sous",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id4.mp3",
+    "subtitles": "Cette clef permet d'ouvrir la machine à sous numéro 679.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/clé679.png",
+    "alt": "clef de machine à sous",
+    "inventory": false,
+    "x": 25,
+    "y": 65,
+    "largeur": 23,
+    "indice": true
+  },
+  {
+    "id": 5,
+    "name": "dé truqué",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id5.mp3",
+    "subtitles":
+      "Ce dé n’est pas comme les autres. Il semble truqué pour tomber perpétuellement sur le 2.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/dé.png",
+    "alt": "dé truqué",
+    "inventory": false,
+    "x": 82,
+    "y": 71,
+    "largeur": 25,
+    "indice": true
+  },
+  {
+    "id": 6,
+    "name": "caméra",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id6.mp3",
+    "subtitles": "J'ai comme l'impression d'être observé...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/caméra.png",
+    "alt": "caméra",
+    "inventory": false,
+    "x": 65,
+    "y": 35,
+    "largeur": 23,
+    "indice": false
+  },
+  {
+    "id": 7,
+    "name": "cendrier contenant un cigare",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id7.mp3",
+    "subtitles":
+      "KOF ! KOF ! Berk ! Ce cendrier contient un cigare encore fumant. Oh non, elles sont toutes noires maintenant ! Pourquoi j'ai mis les mains dedans, moi...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/CendierCigare.png",
+    "alt": "cendrier contenant un cigare",
+    "inventory": false,
+    "x": 40,
+    "y": 55.5,
+    "largeur": 22,
+    "indice": false
+  },
+  {
+    "id": 8,
+    "name": "sac de jetons",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id8.mp3",
+    "subtitles":
+      "Il y a un bon paquet de jetons là-dedans... Ce sac sera bientôt à moi et.. ET JE SERAIS RIIIICHE ! MOUHIHAHAHAHAHA !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/SacJetons.png",
+    "alt": "sac de jetons",
+    "inventory": false,
+    "x": 72,
+    "y": 56,
+    "largeur": 32,
+    "indice": false
+  },
+  {
+    "id": 9,
+    "name": "billets de banque",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id9.mp3",
+    "subtitles":
+      "Il faut que je remporte ces billets... Ca épongerai un peu mes dettes. Sinon, je pourrais aussi les rejouer pour gagner plus ? Oui. Bonne idée, je vais faire ça !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/BilletBanque.png",
+    "alt": "billets de banque",
+    "inventory": false,
+    "x": 60,
+    "y": 49.7,
+    "largeur": 20
+  },
+  {
+    "id": 10,
+    "name": "bouteille d'alcool fort",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id10.mp3",
+    "subtitles":
+      "Voyons voir.. que dit l'étiquette ? QUOI ? 90 DEGRES ? MAIS C'EST DU GEL HYDRO, PAS DE L'ALCOOL !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/BouteilleAlcool.png",
+    "alt": "bouteille d'alcool fort",
+    "inventory": false,
+    "x": 92,
+    "y": 34.5,
+    "largeur": 35,
+    "indice": false
+  },
+  {
+    "id": 11,
+    "name": "verre à cocktail",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id11.mp3",
+    "subtitles":
+      "Un sex on the beach, oh yeah baby.. ! Ahah, je devrais en commander un pour Mary. Elle adore ça.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/VerreCocktail.png",
+    "alt": "verre à cocktail",
+    "inventory": false,
+    "x": 38,
+    "y": 45,
+    "largeur": 30,
+    "indice": false
+  },
+  {
+    "id": 12,
+    "name": "livre de comptes du casino",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id12.mp3",
+    "subtitles":
+      "WOAAAAAW LES ENFOIRES ! Ils brassent un max ! Le livre de compte parle de lui-même !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/livreCompte.png",
+    "alt": "livre de comptes du casino",
+    "inventory": false,
+    "x": 60,
+    "y": 65,
+    "largeur": 30,
+    "indice": false
+  },
+  {
+    "id": 13,
+    "name": "roulette",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id13.mp3",
+    "subtitles": "Gagner à la roulette pourrait me sortir de la merde !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/roulette.png",
+    "alt": "roulette",
+    "inventory": false,
+    "x": 74.7,
+    "y": 63,
+    "largeur": 110,
+    "indice": false
+  },
+  {
+    "id": 14,
+    "name": "boîte de Xanax",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id14.mp3",
+    "subtitles": "Un Xanax et ça repart !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/Xanax.png",
+    "alt": "boîte de Xanax",
+    "inventory": false,
+    "x": 11.5,
+    "y": 59.5,
+    "largeur": 38
+  },
+  {
+    "id": 15,
+    "name": "cadenas",
+    "subtitles": "Je devrais encore continuer d'explorer la salle...",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene1/sc1id15.mp3",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/padlock-303266_1280.png",
+    "alt": "cadenas",
+    "code": 679108092,
+    "inventory": false,
+    "x": 52.3,
+    "y": 51.5,
+    "largeur": 25,
+    "indice": false,
+    "dechiffrage": "_ _ _ - _ _ - _ _ _ - _"
+  }
+]

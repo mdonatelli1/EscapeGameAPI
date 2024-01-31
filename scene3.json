@@ -1,0 +1,216 @@
+[
+  {
+    "id": 200,
+    "name": "trousse a pharmacie",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id1.mp3",
+    "subtitles":
+      "Je suis pas fan de ce genre de boîtes... Pour autant, celle-ci semble différente.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/trousse-secours.png",
+    "splineUrl": "https://prod.spline.design/ikl9LuKio4ff063r/scene.splinecode",
+    "alt": "trousse a pharmacie",
+    "inventory": true,
+    "x": 31.8,
+    "y": 65,
+    "largeur": 80
+  },
+  {
+    "id": 2,
+    "name": "rapports de sécurité",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id2.mp3",
+    "subtitles":
+      "Les rapports de sécurité du casino... C'est pas très rassurants.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/RapportSecurité.png",
+    "alt": "rapports de sécurité",
+    "inventory": false,
+    "x": 10,
+    "y": 93,
+    "largeur": 60,
+    "indice": true,
+    "decryptage": true,
+    "imgSrc": "/Scene3/Pigben1.png"
+  },
+  {
+    "id": 3,
+    "name": "fiche de réservation d'hôtel",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id3.mp3",
+    "subtitles":
+      "Un Casino hôtel ? Ils sont complets, et même en sureffectifs...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/ReservationHotel.png",
+    "alt": "fiche de réservation d'hôtel",
+    "inventory": false,
+    "x": 77,
+    "y": 82.5,
+    "largeur": 50,
+    "indice": true,
+    "decryptage": true,
+    "imgSrc": "/Scene3/Pigben2.png"
+  },
+  {
+    "id": 4,
+    "name": "uniforme infirmier",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id4.mp3",
+    "subtitles": "Eh mais, c'est l'uniforme des employés du casino, non ?",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/UniformeInfirmier.png",
+    "alt": "uniforme infirmier",
+    "inventory": false,
+    "x": 44.9,
+    "y": 49.4,
+    "largeur": 30,
+    "indice": true,
+    "decryptage": true,
+    "imgSrc": "/Scene3/Pigben3.png"
+  },
+  {
+    "id": 5,
+    "name": "tableau hospitalier",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id5.mp3",
+    "subtitles":
+      "Les médecins écrivent toujours en langage codés ahah.. Tiens, pourquoi je parle de médecins, moi ?",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/TableauHospitalier.png",
+    "alt": "tableau hospitalier",
+    "inventory": false,
+    "x": 87,
+    "y": 35,
+    "largeur": 220,
+    "indice": true,
+    "decryptage": true,
+    "imgSrc": "/Scene3/Pigben4.png"
+  },
+  {
+    "id": 6,
+    "name": "livre sur les probabilités",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id6.mp3",
+    "subtitles":
+      "Un livre sur les probabilités... Elles sont infimes. Ce sont EUX, les tricheurs.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/LivreProba.png",
+    "alt": "livre sur les probabilités",
+    "inventory": false,
+    "x": 75,
+    "y": 61,
+    "largeur": 40
+  },
+  {
+    "id": 7,
+    "name": "verre de cocktail",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id7.mp3",
+    "subtitles": "KLING KLING KLING Tchin tchin la compagnie !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/VerreCocktail.png",
+    "alt": "verre de cocktail",
+    "inventory": false,
+    "x": 60,
+    "y": 56,
+    "largeur": 28
+  },
+  {
+    "id": 8,
+    "name": "verre de whisky",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id8.mp3",
+    "subtitles": "Garçon ! Encore un doigt !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/VerreWhisky.png",
+    "alt": "verre de whisky",
+    "inventory": false,
+    "x": 50,
+    "y": 59.5,
+    "largeur": 25
+  },
+  {
+    "id": 9,
+    "name": "bouteille d'alcool",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id9.mp3",
+    "subtitles": "Et un p'tit coup pour bibi à la santé de Mary !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/BouteilleAlcool.png",
+    "alt": "bouteille d'alcool",
+    "inventory": false,
+    "x": 52,
+    "y": 57,
+    "largeur": 25
+  },
+  {
+    "id": 10,
+    "name": "stéthoscope",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id10.mp3",
+    "subtitles": "[BRUITS DE BATTEMENTS DE COEUR]",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/Stétoscope.png",
+    "alt": "stéthoscope",
+    "inventory": false,
+    "x": 22,
+    "y": 80,
+    "largeur": 50
+  },
+  {
+    "id": 11,
+    "name": "paquet de cartes",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id11.mp3",
+    "subtitles": "J'ai une Quinte Flush Royale. Je bluff ou pas ?",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/PaquetCarte.png",
+    "alt": "paquet de cartes",
+    "inventory": false,
+    "x": 28,
+    "y": 77,
+    "largeur": 30
+  },
+  {
+    "id": 12,
+    "name": "lunettes de soleil",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id12.mp3",
+    "subtitles": "Encore ici ?",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene2/lunette.png",
+    "alt": "lunettes de soleil",
+    "inventory": false,
+    "x": 53.5,
+    "y": 60,
+    "largeur": 25
+  },
+  {
+    "id": 13,
+    "name": "dettes de jeu",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id13.mp3",
+    "subtitles":
+      "Des dettes de jeu au nom de... Gerard Hadd... Hey, mais c'est moi, ça !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/DettesJeu.png",
+    "alt": "dettes de jeu",
+    "inventory": false,
+    "x": 20,
+    "y": 70.5,
+    "largeur": 40
+  },
+  {
+    "id": 14,
+    "name": "pillulier",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id14.mp3",
+    "subtitles": "NON ! PAS LES PILLULES !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/Pilulier.png",
+    "alt": "pillulier",
+    "inventory": false,
+    "x": 68,
+    "y": 72,
+    "largeur": 27
+  },
+  {
+    "id": 15,
+    "name": "camera",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id15.mp3",
+    "subtitles":
+      "Ils ne veulent pas me laisser tranquille... Ils nous surveillent tout le temps... TOUT LE TEMPS !!!",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene3/caméra.png",
+    "alt": "camera",
+    "inventory": false,
+    "x": 68,
+    "y": 37,
+    "largeur": 30
+  },
+  {
+    "id": 16,
+    "name": "cadenas",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene3/sc3id16.mp3",
+    "subtitles": "Je devrais encore continuer d'explorer la salle...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/padlock-303266_1280.png",
+    "alt": "cadenas",
+    "code": "PSYCHIATRIE",
+    "inventory": false,
+    "x": 28.5,
+    "y": 59.8,
+    "largeur": 30,
+    "dechiffrage": "/Scene3/mdp.png"
+  }
+]

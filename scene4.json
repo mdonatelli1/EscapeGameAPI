@@ -1,0 +1,133 @@
+[
+  {
+    "id": 300,
+    "name": "alliance",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id1.mp3",
+    "subtitles": "[VOIX TRISTE] Mais... Mais c'est l'alliance de Mary... ? SNIF",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/alliance.png",
+    "splineUrl": "https://prod.spline.design/AqJQTyW7yiQYWQ2d/scene.splinecode",
+    "alt": "alliance",
+    "inventory": true,
+    "x": 25.7,
+    "y": 77.2,
+    "largeur": 30
+  },
+  {
+    "id": 2,
+    "name": "sac à main de Mary",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id2.mp3",
+    "subtitles":
+      "Le sac à main de Mary... Qu'est ce qu'il fait là.. Et ? Oh, il y a une note dedans... !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/sac-a-main.png",
+    "alt": "sac à main de Mary",
+    "inventory": false,
+    "x": 63,
+    "y": 68,
+    "largeur": 90,
+    "indice": true,
+    "decryptage": true,
+    "imgSrc": "/Scene4/tripoli1.png"
+  },
+  {
+    "id": 4,
+    "name": "cadre photo de Mary",
+    "sound": "",
+    "subtitles": "[VOIX TRISTE] Une photo de Mary... Elle est si belle...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/portrait.png",
+    "alt": "cadre photo de Mary",
+    "inventory": false,
+    "x": 36,
+    "y": 40,
+    "largeur": 125,
+    "decryptage": true,
+    "imgSrc": "/Scene4/tripoli2.png"
+  },
+  {
+    "id": 5,
+    "name": "paquet de cartes",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id5.mp3",
+    "subtitles":
+      "Une petite partie de Poker ? Allez mise tapis... Je te suis. Mais je vais gagner... Hihihihihihihihihihihi !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/PaquetCarte.png",
+    "alt": "paquet de cartes",
+    "inventory": false,
+    "x": 42,
+    "y": 80,
+    "largeur": 40
+  },
+  {
+    "id": 6,
+    "name": "un poulet en peluche",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id6.mp3",
+    "subtitles":
+      "EH MAIS ! Je le reconnait, lui.. c'est Abdou ! Ma peluche poulet d'enfance !",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/Poulet.png",
+    "alt": "un poulet en peluche",
+    "inventory": false,
+    "x": 73,
+    "y": 70,
+    "largeur": 30
+  },
+  {
+    "id": 7,
+    "name": "un chat en peluche",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id7.mp3",
+    "subtitles": "Ce chat... C'est Alex, ma peluche kitten d'un chat.",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/Chat.png",
+    "alt": "un chat en peluche",
+    "inventory": false,
+    "x": 32,
+    "y": 58.5,
+    "largeur": 30
+  },
+  {
+    "id": 8,
+    "name": "radio",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id8.mp3",
+    "subtitles": "[HURLEMENTS ET RIRES INQUIETANTS PROVENANT DE LA RADIO]",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/radio.png",
+    "alt": "radio",
+    "inventory": false,
+    "x": 41.5,
+    "y": 55.5,
+    "largeur": 30
+  },
+  {
+    "id": 9,
+    "name": "sac de jetons",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id9.mp3",
+    "subtitles": "Les jetons.. Plein de jetons.. A moi...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/SacJetons.png",
+    "alt": "sac de jetons",
+    "inventory": false,
+    "x": 71,
+    "y": 49,
+    "largeur": 30
+  },
+  {
+    "id": 10,
+    "name": "caméra",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id10.mp3",
+    "subtitles": "[HURLEMENT D'AGACEMENT] ARRÊTEZ DE ME REGARDER !!!",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene4/caméra.png",
+    "alt": "caméra",
+    "inventory": false,
+    "x": 61,
+    "y": 35,
+    "largeur": 25
+  },
+  {
+    "id": 15,
+    "name": "cadenas",
+    "sound": "https://mdonatelli1.github.io/EscapeGameAPI/audiosMP3/scene4/sc4id15.mp3",
+    "subtitles": "Je devrais encore continuer d'explorer la salle...",
+    "picture": "https://mdonatelli1.github.io/EscapeGameAPI/Scene1/padlock-303266_1280.png",
+    "alt": "cadenas",
+    "code": "DESCENTE AUX ENFERS",
+    "inventory": false,
+    "x": 51.2,
+    "y": 53.5,
+    "largeur": 25,
+    "dechiffrage": "45135525 136 556591"
+  }
+]
